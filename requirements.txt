@@ -1,0 +1,12 @@
+aiohttp==3.11.7
+anyio==4.6.2.post1
+cryptography==43.0.3
+fastapi==0.115.5
+groq==0.5.0
+instructor==1.6.4
+pydantic==2.10.1
+python-dotenv==1.0.1
+slowapi==0.1.9
+starlette==0.41.3
+typing_extensions==4.12.2
+uvicorn==0.32.1
